@@ -39,9 +39,15 @@ public class ProjectWorkActivity extends ActivityFragmentSupport {
     @ViewInject(R.id.et_content)
     private EditText et_content;
 
+    /**
+     * 确定
+     */
     @ViewInject(R.id.tv_submit)
     private TextView tv_submit;
 
+    /**
+     * 取消
+     */
     @ViewInject(R.id.tv_cancel)
     private TextView tv_cancel;
 
