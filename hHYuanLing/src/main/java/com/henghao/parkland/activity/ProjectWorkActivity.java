@@ -105,7 +105,7 @@ public class ProjectWorkActivity extends ActivityFragmentSupport {
 
     private boolean checkData() {
         if (tv_start.getText().toString().trim().equals("请选择时间")) {
-            msg("请选择工作开始时间！");
+            msg("请选择工作开始时间!");
             return false;
         }
         if (tv_endtime.getText().toString().trim().equals("请选择时间")) {
