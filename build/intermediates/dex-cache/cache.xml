@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_ae2b707829b743bd276a98494e667f2e8730b1fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="038bc3c7d7b439b4b2c2560a0b7537abb0674d49">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6ac6b5831a5804ca80dadc49fbde66afbf59aa45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\HHYuanLing\b_library\unspecified\jars\libs\core-3.1.1-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d959c5883fc95c19c90945728a852e925c11f5eb">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\8\core-3.1.1-SNAPSHOT_8fd1967b356c5cd3d95aa5cbc81fdbcca65771a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_a5060480915492f0afd77f49c528715477c920aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-5.1.1_4e4ce574f3d72998b594448756183a3048e0c38d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_175860ac95e502fb60b75c6ab15514093a8f42e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1b6c3a16b8aaf1f63445fc175c593723cb691abb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\HHYuanLing\b_library\unspecified\jars\libs\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\8\library-2.4.0_9e5d885d43e6872b18f2f78cd4c9492378fb5583\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\libs\locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.13_957fd798d0399c2e3a396771aa70cb5a4970ca46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_de55b7c0df87de74c04e3b6633967c565f5783d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\libs\baidumapapi_base_v4_1_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00cd7d6a741c6a922c9cf7b0db52a357ebf12cdb">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_base_v4_1_1_f6779396f79923e7635f0dd416736a4b7af0c960\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\libs\pushservice-4.5.3.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77392fd69a14d333856f98ef6074643844cb7f61">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\2\pushservice-4.5.3.48_1ed554483575d1c3f350ece3c64d257c1a4cfe27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SDK\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_b0a5e09795edd785b7e148119ba5dafe85e8b8a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a2f6f9aa0b75527504fe8433dd581dd97449257">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_89a34276c2776925721bb252864ac10fdc5f549e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_58268617fb5213e0984febcabd93087bb805af62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\HHYuanLing\b_library\unspecified\jars\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4be4b04501b974e1be142024285f925b7ad9ff88">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\8\picasso-2.5.2_1a3fbc043c51b210f906d1be94988b4790c0b98f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_f26d0318356407febc89ea689ee39f7899f28ac7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2035523e36a7a09d3e09affdcc923ac1e8d729c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_828c741c5602d76281433e54e47729a7e20b20e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_40d4c6e9a3f98c2a8274547c5b2209cfcf2d22af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_20933d367f5a70fa4a25100432fbb7c18b573db3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5d28e12ed6323b37a336762a83c033c8c016eecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_dc5314f6ae582003bef3729a707a39c7b745254f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_eabda93515dd1aebdb0b054692408223755d1dc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.6.0\212387a39088ecd3daff8e3bfc3bdc4123e33c67\okhttp-2.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.6.0_540bf3759d699c9ac0675b07f40caa8c29c91998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\libs\baidumapapi_map_v4_1_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="930064f0a91ff20ceb8dd4504b7dadec5aabea82">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_map_v4_1_1_ad8e68f584829ddbb3295cf195dc63e9502583ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Studio\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_aa297d8ac3db0550ba1010ccb50270d9213fa359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspaces\HHYuanLing\hHYuanLing\libs\jxl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Workspaces\HHYuanLing\hHYuanLing\build\intermediates\transforms\dex\debug\folders\1000\2\jxl_3b830b517f8b233e1025831272976397284a24a1\classes.dex" />
+    </item>
+
+</items>

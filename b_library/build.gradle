@@ -1,0 +1,22 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        minSdkVersion 8
+        targetSdkVersion 21
+    }
+
+
+}
+
+dependencies {
+    compile project(':x_library')
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile files('libs/core-3.1.1-SNAPSHOT.jar')
+    compile files('libs/library-2.4.0.jar')
+    compile files('libs/picasso-2.5.2.jar')
+}

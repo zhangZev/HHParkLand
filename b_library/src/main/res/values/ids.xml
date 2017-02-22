@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="gridview" type="id"/>
+    <item name="webview" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="viewpager" type="id"/>
+    <!-- zxing -->
+    <item name="restart_preview" type="id"></item>
+    <item name="decode_succeeded" type="id"></item>
+    <item name="decode_failed" type="id"></item>
+    <item name="return_scan_result" type="id"></item>
+    <item name="quit" type="id"></item>
+    <item name="viewfinder_view" type="id"></item>
+    <!-- 扫描二维码 -->
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+
+</resources>

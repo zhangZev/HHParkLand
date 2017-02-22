@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="country_codes" ns1:ignore="MissingTranslation">
+    <item>-</item>
+    <item>AR</item>
+    <item>AU</item>
+    <item>BR</item>
+    <item>BG</item>
+    <item>CA</item>
+    <item>CH</item>
+    <item>CN</item>
+    <item>CZ</item>
+    <item>DE</item>
+    <item>DK</item>
+    <item>ES</item>
+    <item>FI</item>
+    <item>FR</item>
+    <item>GB</item>
+    <item>GR</item>
+    <item>HU</item>
+    <item>ID</item>
+    <item>IT</item>
+    <item>JP</item>
+    <item>KR</item>
+    <item>NL</item>
+    <item>PL</item>
+    <item>PT</item>
+    <item>RO</item>    
+    <item>RU</item>
+    <item>SE</item>
+    <item>SK</item>
+    <item>SI</item>
+    <item>TR</item>
+    <item>TW</item>
+    <item>US</item>
+  </string-array>
+    <string-array name="preferences_front_light_options">
+    <item>@string/preferences_front_light_on</item>
+    <item>@string/preferences_front_light_auto</item>
+    <item>@string/preferences_front_light_off</item>
+  </string-array>
+    <string-array name="preferences_front_light_values" ns1:ignore="MissingTranslation">
+    <item>ON</item>
+    <item>AUTO</item>
+    <item>OFF</item>
+  </string-array>
+    <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
+    <dimen name="abc_action_bar_content_inset_with_nav">80dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8dp</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+</resources>

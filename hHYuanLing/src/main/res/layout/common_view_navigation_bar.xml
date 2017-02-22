@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:background="@color/header">
+    
+    <LinearLayout
+        android:id="@+id/bar_left"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" 
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true">
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/bar_right"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" 
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@drawable/btn_my_selector"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true">
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/bar_center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center" 
+        android:orientation="horizontal"
+        android:layout_marginLeft="@dimen/padding_normal"
+        android:layout_marginRight="@dimen/padding_normal_max"
+        android:layout_centerHorizontal="true"
+        >
+<!--         android:layout_toLeftOf="@+id/bar_right" -->
+<!--         android:layout_toRightOf="@+id/bar_left" -->
+    </LinearLayout>
+    
+    
+
+</RelativeLayout>

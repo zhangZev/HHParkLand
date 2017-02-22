@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/tabs_root"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:orientation="vertical">
+
+
+        <RadioGroup
+            android:id="@+id/tabs_rg"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#84B099"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/padding_normal">
+
+            <RadioButton
+                android:id="@+id/xm_project"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:checked="true"
+                android:drawablePadding="@dimen/padding_small"
+                android:drawableTop="@drawable/selector_xiangmufirst"
+                android:gravity="center"
+                android:padding="@dimen/padding_normal"
+                android:singleLine="true"
+                android:text="项目管理"
+                android:textColor="@color/black"
+                android:textSize="@dimen/gj_c" />
+
+            <RadioButton
+                android:id="@+id/xm_my"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/padding_big"
+                android:button="@null"
+                android:drawablePadding="@dimen/padding_small"
+                android:drawableTop="@drawable/selector_xiangmuguanlsecond"
+                android:gravity="center"
+                android:padding="@dimen/padding_normal"
+                android:singleLine="true"
+                android:text="@string/hc_my"
+                android:textColor="@color/black"
+                android:textSize="@dimen/gj_c" />
+            <!-- 工作台 -->
+
+
+        </RadioGroup>
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="-1px"
+        android:layout_marginRight="-1px"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="3"
+        android:scrollbars="none"
+        android:stretchMode="columnWidth"></GridView>
+</LinearLayout>

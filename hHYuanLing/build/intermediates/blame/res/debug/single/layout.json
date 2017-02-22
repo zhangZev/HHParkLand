@@ -1,0 +1,638 @@
+[
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_item_guide.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_item_guide.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_barcode.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_barcode.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maintenace.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_maintenace.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\include_adrollingitem.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\include_adrollingitem.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\include_homeadrolling.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\include_homeadrolling.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_textimage.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_gridview_textimage.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\widget_horizontal_stepsview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\widget_horizontal_stepsview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_birth_year.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_birth_year.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_xlistview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_xlistview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\fragment_msg.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_showview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_androidlistview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_androidlistview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qr_scan.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\activity_qr_scan.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_tab.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\item_tab.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\include_poject_money.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\include_poject_money.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\toast_view.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\toast_view.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scandetail.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_scandetail.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_project.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_project.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiandao.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_qiandao.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_poject_money.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_poject_money.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_image.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\list_item_image.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yhdata.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_yhdata.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_ptr_grid.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\common_ptr_grid.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\view_loading.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_treemessage.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_treemessage.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iso.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_iso.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_work.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\fragment_work.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_levelview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_levelview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\cmp_customer_actionbar.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\cmp_customer_actionbar.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yanmain.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_yanmain.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_date_choose.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\dialog_date_choose.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\view_home_class.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\view_home_class.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reg.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_reg.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_viewpages.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_viewpages.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_viewtest.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_viewtest.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_imageview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_imageview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_folder.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\list_item_folder.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_activity_guide.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_activity_guide.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_tagview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_tagview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_ptr_list.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\common_ptr_list.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_tab_pageview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_tab_pageview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_listview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_listview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_android_listview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_android_listview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_view_bar_left.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_view_bar_left.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guanhu.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_guanhu.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_default.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\activity_default.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_view_bar_center.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_view_bar_center.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiandao_submit.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_qiandao_submit.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\include_homework.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\include_homework.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_entry.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\fragment_entry.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_flipping_loading_diloag.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\common_flipping_loading_diloag.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\include_isotitle.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\include_isotitle.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project_money.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_project_money.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_easechat.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_easechat.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_tecentwebview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_tecentwebview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_workimage.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_workimage.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\drop_down_list_header.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\drop_down_list_header.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_textview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_textview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project_work.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_project_work.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_view_stub_loading.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_view_stub_loading.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_generic.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\common_dialog_generic.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_worklist.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_worklist.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\drop_down_list_footer.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\drop_down_list_footer.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_view_bar_right.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_view_bar_right.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_xiangmuguanli.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\fragment_xiangmuguanli.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_camera.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\list_item_camera.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project_log.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_project_log.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_taglist.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_taglist.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_tag.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_tag.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_yanghustatelist.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_yanghustatelist.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_log_forget.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_log_forget.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\acitivty_yhmanage.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\acitivty_yhmanage.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_step.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_step.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_captureold.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\activity_captureold.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_alert_yanghu.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\dialog_alert_yanghu.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_toast.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\common_toast.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project_sgm.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_project_sgm.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_empty.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_empty.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_multi_image.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\fragment_multi_image.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\view_home_list_header.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\view_home_list_header.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\widget_vertical_stepsview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\widget_vertical_stepsview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\yanghu_listview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\yanghu_listview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_activity_splash.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_app.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\fragment_app.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_gridview.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_gridview.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project_sg.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_project_sg.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\HHYuanLing\\b_library\\unspecified\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_activity_views.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_activity_views.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\include_projecttop.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\include_projecttop.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\include_projectbottom.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\include_projectbottom.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_view_bar_upright.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_view_bar_upright.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\common_view_navigation_bar.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\common_view_navigation_bar.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_notpolling.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_notpolling.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiaofang.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\activity_xiaofang.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_alert_edit.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\dialog_alert_edit.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\list_yanghu_item.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\list_yanghu_item.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\layout\\item_workxuqiu.xml",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\layout\\item_workxuqiu.xml"
+    }
+]

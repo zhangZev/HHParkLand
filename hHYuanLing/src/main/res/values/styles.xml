@@ -1,0 +1,145 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/app_bg</item>
+    </style>
+    <!-- 启动样式 -->
+    <style name="Theme.Start" parent="AppBaseTheme">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!-- activity 启动样式 -->
+    <style name="Activity.Theme" parent="AppBaseTheme">
+
+        <!-- 将Activity的Theme设置成透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/app_bg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="Activity.Theme.Login" parent="android:Theme">
+
+        <!-- 将Activity的Theme设置成透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/app_bg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="PopupAnimation">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+
+    <style name="AnimationFade" parent="@android:style/Animation">
+
+        <!-- PopupWindow上下弹出的效果 -->
+        <item name="android:windowEnterAnimation">@anim/popwindow_down</item>
+        <item name="android:windowExitAnimation">@anim/popwindow_up</item>
+    </style>
+
+    <style name="AnimationSlide" parent="@android:style/Animation">
+
+        <!-- PopupWindow左右弹出的效果 -->
+        <item name="android:windowEnterAnimation">@anim/push_left_in</item>
+        <item name="android:windowExitAnimation">@anim/push_right_out</item>
+    </style>
+
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+
+    <style name="Empty" parent="@android:style/Animation"></style>
+
+    <style name="MyDialogStyleBottom" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/Empty</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">false</item>
+
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+
+    <!-- pop弹出 -->
+    <style name="mypopwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/popshow_anim</item>
+        <!-- 指定显示的动画xml -->
+
+        <item name="android:windowExitAnimation">@anim/pophidden_anim</item>
+        <!-- 指定消失的动画xml -->
+    </style>
+
+
+    <style name="Theme.Light.FullScreenDialogAct" parent="@style/BaseDialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff555555</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+
+    <!-- 自定义对话框 -->
+    <style name="dialog_alert" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimAmount">0.5</item>
+        <!-- 模糊 -->
+    </style>
+
+    <!-- 下拉弹出框 -->
+    <style name="AnimationUpPopup">
+        <item name="android:windowEnterAnimation">@anim/grow_fade_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/shrink_fade_out_from_bottom</item>
+    </style>
+
+    <style name="AnimationFromButtom">
+        <item name="android:windowEnterAnimation">@anim/popup_form_bottom</item>
+        <item name="android:windowExitAnimation">@anim/drop_down_to_bottom</item>
+    </style>
+
+    <style name="AnimationFromTop">
+        <item name="android:windowEnterAnimation">@anim/drop_down_from_top</item>
+        <item name="android:windowExitAnimation">@anim/hide_to_top</item>
+    </style>
+
+    <style name="Shop.Widget.EditText" parent="android:Widget.EditText">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/edittext_background</item>
+        <item name="android:textColor">@color/login_font_color</item>
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <!-- 对话框 -->
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/android:transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

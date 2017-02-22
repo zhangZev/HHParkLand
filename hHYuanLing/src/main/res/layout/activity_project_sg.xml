@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:orientation="vertical"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/include_projecttop"></include>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/padding_big"
+            android:paddingLeft="@dimen/padding_normal"
+            android:paddingRight="@dimen/padding_normal"
+            android:paddingTop="@dimen/padding_big">
+
+            <TextView
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:text="项目名称："
+                android:textSize="@dimen/gj_d" />
+
+            <EditText
+                android:id="@+id/et_project_name"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@drawable/editext_shape"
+                android:hint="请输入项目名称"
+                android:lines="1"
+                android:padding="@dimen/padding_normal"
+                android:textSize="@dimen/gj_d" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dip"
+            android:background="@color/line"></View>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/padding_big"
+            android:paddingLeft="@dimen/padding_normal"
+            android:paddingRight="@dimen/padding_normal"
+            android:paddingTop="@dimen/padding_big">
+
+            <TextView
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:text="工作内容："
+                android:textSize="@dimen/gj_d" />
+
+            <EditText
+                android:id="@+id/et_content"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@drawable/editext_shape"
+                android:gravity="top"
+                android:hint="请输入工作内容"
+                android:lines="5"
+                android:padding="@dimen/padding_normal"
+                android:textSize="@dimen/gj_d" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <include layout="@layout/include_projectbottom" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

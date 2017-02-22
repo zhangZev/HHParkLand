@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\Workspaces\HHYuanLing\b_library\src\main\res"/><source path="D:\Workspaces\HHYuanLing\b_library\build\generated\res\rs\release"/><source path="D:\Workspaces\HHYuanLing\b_library\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="D:\Workspaces\HHYuanLing\b_library\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\Workspaces\HHYuanLing\b_library\src\main\res"><file name="fade_in" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\fade_in.xml" qualifiers="" type="anim"/><file name="fade_out" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\fade_out.xml" qualifiers="" type="anim"/><file name="head_in" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\head_in.xml" qualifiers="" type="anim"/><file name="head_out" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\head_out.xml" qualifiers="" type="anim"/><file name="hold" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\hold.xml" qualifiers="" type="anim"/><file name="progress_bar_anim" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\progress_bar_anim.xml" qualifiers="" type="anim"/><file name="progress_bar_anim_footer" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\progress_bar_anim_footer.xml" qualifiers="" type="anim"/><file name="push_bottom_in" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_bottom_in.xml" qualifiers="" type="anim"/><file name="push_bottom_out" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_bottom_out.xml" qualifiers="" type="anim"/><file name="push_left_in" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_left_in.xml" qualifiers="" type="anim"/><file name="push_left_out" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_left_out.xml" qualifiers="" type="anim"/><file name="push_left_out_car" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_left_out_car.xml" qualifiers="" type="anim"/><file name="push_right_in" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_right_in.xml" qualifiers="" type="anim"/><file name="push_right_in_car" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_right_in_car.xml" qualifiers="" type="anim"/><file name="push_right_out" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_right_out.xml" qualifiers="" type="anim"/><file name="push_top_in" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_top_in.xml" qualifiers="" type="anim"/><file name="push_top_in2" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_top_in2.xml" qualifiers="" type="anim"/><file name="push_top_out" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_top_out.xml" qualifiers="" type="anim"/><file name="push_top_out2" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\push_top_out2.xml" qualifiers="" type="anim"/><file name="slide_in_bottom" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\slide_in_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_bottom" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_left" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\slide_in_from_left.xml" qualifiers="" type="anim"/><file name="slide_in_from_right" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\slide_in_from_right.xml" qualifiers="" type="anim"/><file name="slide_in_from_top" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_out_bottom" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\slide_out_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_left" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\slide_out_to_left.xml" qualifiers="" type="anim"/><file name="slide_out_to_right" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\slide_out_to_right.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\anim\slide_out_to_top.xml" qualifiers="" type="anim"/><file name="default_text_color" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\color\default_text_color.xml" qualifiers="" type="color"/><file name="folder_text_color" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\color\folder_text_color.xml" qualifiers="" type="color"/><file name="vpi__dark_theme" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\color\vpi__dark_theme.xml" qualifiers="" type="color"/><file name="vpi__light_theme" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\color\vpi__light_theme.xml" qualifiers="" type="color"/><file name="action_btn" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\action_btn.xml" qualifiers="" type="drawable"/><file name="background_tab" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\background_tab.xml" qualifiers="" type="drawable"/><file name="bg_common_toast" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\bg_common_toast.9.png" qualifiers="" type="drawable"/><file name="btn_press" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\btn_press.xml" qualifiers="" type="drawable"/><file name="btn_pwd_pay_left" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\btn_pwd_pay_left.xml" qualifiers="" type="drawable"/><file name="btn_pwd_pay_right" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\btn_pwd_pay_right.xml" qualifiers="" type="drawable"/><file name="btn_selector" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\btn_selector.xml" qualifiers="" type="drawable"/><file name="btn_unpress" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\btn_unpress.xml" qualifiers="" type="drawable"/><file name="dialog_bg" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\dialog_bg.xml" qualifiers="" type="drawable"/><file name="indicator_bg_bottom" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\indicator_bg_bottom.xml" qualifiers="" type="drawable"/><file name="indicator_bg_top" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\indicator_bg_top.xml" qualifiers="" type="drawable"/><file name="list_selector_transition" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\list_selector_transition.xml" qualifiers="" type="drawable"/><file name="progressbar" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\progressbar.xml" qualifiers="" type="drawable"/><file name="selector_pickerview_btn" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\selector_pickerview_btn.xml" qualifiers="" type="drawable"/><file name="toast_bg" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\toast_bg.xml" qualifiers="" type="drawable"/><file name="vpi__tab_indicator" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable\vpi__tab_indicator.xml" qualifiers="" type="drawable"/><file name="bg_popwindow" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\bg_popwindow.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_flip" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\default_ptr_flip.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\default_ptr_rotate.png" qualifiers="hdpi-v4" type="drawable"/><file name="goodslist_shopcart_num" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\goodslist_shopcart_num.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="indicator_arrow" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\indicator_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_bg" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\loading_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_mian" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\loading_mian.png" qualifiers="hdpi-v4" type="drawable"/><file name="logo1" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\logo1.png" qualifiers="hdpi-v4" type="drawable"/><file name="mmtitle_bg_alpha" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\mmtitle_bg_alpha.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_corner_bottom_left" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_corner_bottom_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_corner_bottom_right" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_corner_bottom_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_corner_top_left" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_corner_top_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_corner_top_right" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_corner_top_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_fail" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_fail.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_flashlight_normal" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_flashlight_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_flashlight_pressed" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_flashlight_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_history_normal" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_history_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_history_pressed" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_history_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_laser" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_laser.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_photo_normal" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_photo_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_photo_pressed" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\scan_photo_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\vpi__tab_selected_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\vpi__tab_unselected_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="zfmm_window_bottomleft_click" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\zfmm_window_bottomleft_click.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="zfmm_window_bottomleft_out" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\zfmm_window_bottomleft_out.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="zfmm_window_bottomright_click" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\zfmm_window_bottomright_click.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="zfmm_window_bottomright_out" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\zfmm_window_bottomright_out.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="zfmm_window_top" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-hdpi\zfmm_window_top.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_flip" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-mdpi\default_ptr_flip.png" qualifiers="mdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-mdpi\default_ptr_rotate.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="indicator_arrow" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-mdpi\indicator_arrow.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-mdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-mdpi\vpi__tab_selected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-mdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-mdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-mdpi\vpi__tab_unselected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-mdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="capture" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\capture.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="capture_back" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\capture_back.png" qualifiers="xhdpi-v4" type="drawable"/><file name="capture_light" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\capture_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="capture_pic" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\capture_pic.png" qualifiers="xhdpi-v4" type="drawable"/><file name="default_ptr_flip" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\default_ptr_flip.png" qualifiers="xhdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\default_ptr_rotate.png" qualifiers="xhdpi-v4" type="drawable"/><file name="delete_expression" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\delete_expression.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="indicator_arrow" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\indicator_arrow.png" qualifiers="xhdpi-v4" type="drawable"/><file name="list_footer_pro_12" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\list_footer_pro_12.png" qualifiers="xhdpi-v4" type="drawable"/><file name="list_footer_pro_21" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\list_footer_pro_21.png" qualifiers="xhdpi-v4" type="drawable"/><file name="list_header_pro_12" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\list_header_pro_12.png" qualifiers="xhdpi-v4" type="drawable"/><file name="list_header_pro_21" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\list_header_pro_21.png" qualifiers="xhdpi-v4" type="drawable"/><file name="list_pro_12" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\list_pro_12.png" qualifiers="xhdpi-v4" type="drawable"/><file name="list_pro_21" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\list_pro_21.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading_bg" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\loading_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading_mian" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\loading_mian.png" qualifiers="xhdpi-v4" type="drawable"/><file name="scan_line" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\scan_line.png" qualifiers="xhdpi-v4" type="drawable"/><file name="scan_mask" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\scan_mask.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\vpi__tab_selected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\vpi__tab_unselected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="xlistview_loading" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xhdpi\xlistview_loading.png" qualifiers="xhdpi-v4" type="drawable"/><file name="asv" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\asv.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="asy" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\asy.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="btn_back" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\btn_back.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="btn_selected" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\btn_selected.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="btn_unselected" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\btn_unselected.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="default_check" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\default_check.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="default_error" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\default_error.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="list_pro_11" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\list_pro_11.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="list_pro_13" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\list_pro_13.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="list_pro_14" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\list_pro_14.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="list_pro_15" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\list_pro_15.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading_bg" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\loading_bg.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading_mian" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\loading_mian.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="text_indicator" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\drawable-xxhdpi\text_indicator.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_capture" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\activity_capture.xml" qualifiers="" type="layout"/><file name="activity_captureold" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\activity_captureold.xml" qualifiers="" type="layout"/><file name="activity_default" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\activity_default.xml" qualifiers="" type="layout"/><file name="activity_main" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_qr_scan" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\activity_qr_scan.xml" qualifiers="" type="layout"/><file name="activity_title" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\activity_title.xml" qualifiers="" type="layout"/><file name="cmp_customer_actionbar" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\cmp_customer_actionbar.xml" qualifiers="" type="layout"/><file name="common_dialog_generic" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\common_dialog_generic.xml" qualifiers="" type="layout"/><file name="common_flipping_loading_diloag" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\common_flipping_loading_diloag.xml" qualifiers="" type="layout"/><file name="common_ptr_grid" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\common_ptr_grid.xml" qualifiers="" type="layout"/><file name="common_ptr_list" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\common_ptr_list.xml" qualifiers="" type="layout"/><file name="common_toast" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\common_toast.xml" qualifiers="" type="layout"/><file name="dialog_layout" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\dialog_layout.xml" qualifiers="" type="layout"/><file name="drop_down_list_footer" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\drop_down_list_footer.xml" qualifiers="" type="layout"/><file name="drop_down_list_header" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\drop_down_list_header.xml" qualifiers="" type="layout"/><file name="fragment_multi_image" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\fragment_multi_image.xml" qualifiers="" type="layout"/><file name="include_pickerview_topbar" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\include_pickerview_topbar.xml" qualifiers="" type="layout"/><file name="item_tab" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\item_tab.xml" qualifiers="" type="layout"/><file name="layout_basepickerview" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\layout_basepickerview.xml" qualifiers="" type="layout"/><file name="list_item_camera" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\list_item_camera.xml" qualifiers="" type="layout"/><file name="list_item_folder" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\list_item_folder.xml" qualifiers="" type="layout"/><file name="list_item_image" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\list_item_image.xml" qualifiers="" type="layout"/><file name="pickerview_options" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\pickerview_options.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_horizontal" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_vertical" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file name="toast_view" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\toast_view.xml" qualifiers="" type="layout"/><file name="view_loading" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\view_loading.xml" qualifiers="" type="layout"/><file name="xlistview_footer" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\xlistview_footer.xml" qualifiers="" type="layout"/><file name="xlistview_header" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\layout\xlistview_header.xml" qualifiers="" type="layout"/><file name="beep" path="D:\Workspaces\HHYuanLing\b_library\src\main\res\raw\beep.ogg" qualifiers="" type="raw"/><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="Theme">
+        <attr format="reference" name="circularImageViewStyle"/>
+    </declare-styleable><declare-styleable name="SlidingDrawer">
+        <attr format="boolean" name="animateOnClick"/>
+        <attr format="boolean" name="allowSingleTap"/>
+        <attr format="dimension" name="topOffset"/>
+        <attr format="dimension" name="bottomOffset"/>
+        <attr name="orientation"/>
+        <attr format="reference" name="handle"/>
+        <attr format="reference" name="content"/>
+    </declare-styleable><declare-styleable name="EaseTitleBar">
+        <attr format="string" name="titleBarTitle"/>
+        <attr format="reference" name="titleBarLeftImage"/>
+        <attr format="reference" name="titleBarRightImage"/>
+        <attr format="reference|color" name="titleBarBackground"/>
+    </declare-styleable><declare-styleable name="PagerSlidingTabStrip">
+        <attr format="color" name="pstsIndicatorColor"/>
+        <attr format="color" name="pstsUnderlineColor"/>
+        <attr format="color" name="pstsDividerColor"/>
+        <attr format="dimension" name="pstsIndicatorHeight"/>
+        <attr format="dimension" name="pstsUnderlineHeight"/>
+        <attr format="dimension" name="pstsDividerPadding"/>
+        <attr format="dimension" name="pstsTabPaddingLeftRight"/>
+        <attr format="dimension" name="pstsScrollOffset"/>
+        <attr format="reference" name="pstsTabBackground"/>
+        <attr format="boolean" name="pstsShouldExpand"/>
+        <attr format="boolean" name="pstsTextAllCaps"/>
+    </declare-styleable><declare-styleable name="EaseEmojiconMenu">
+        <attr format="integer" name="bigEmojiconRows"/>
+        <attr format="integer" name="emojiconColumns"/>
+    </declare-styleable><declare-styleable name="EaseSwitchButton">
+        <attr format="reference" name="switchOpenImage"/>
+        <attr format="reference" name="switchCloseImage"/>
+        <attr name="switchStatus">
+            <enum name="open" value="0"/>
+            <enum name="close" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="EaseChatMessageList">
+        <attr format="reference" name="msgListMyBubbleBackground"/>
+        <attr format="reference" name="msgListOtherBubbleBackground"/>
+        <attr format="boolean" name="msgListShowUserAvatar"/>
+        <attr format="boolean" name="msgListShowUserNick"/>
+    </declare-styleable><declare-styleable name="ViewDataEmpty">
+        <attr format="reference" name="viewMain"/>
+        <attr format="reference" name="viewEmpty"/>
+    </declare-styleable><declare-styleable name="EaseContactList">
+        <attr format="color" name="ctsListPrimaryTextColor"/>
+        <attr format="dimension" name="ctsListPrimaryTextSize"/>
+        <attr format="boolean" name="ctsListShowSiderBar"/>
+        <attr format="reference|color" name="ctsListInitialLetterBg"/>
+        <attr format="color" name="ctsListInitialLetterColor"/>
+    </declare-styleable><declare-styleable name="CircularImageView">
+        <attr format="boolean" name="border"/>
+        <attr format="dimension" name="border_width"/>
+        <attr format="color" name="border_color"/>
+        <attr format="boolean" name="shadow"/>
+    </declare-styleable><attr name="orientation">
+        <enum name="horizontal" value="0"/>
+        <enum name="vertical" value="1"/>
+    </attr><declare-styleable name="drop_down_list_attr">
+        <attr format="boolean" name="isDropDownStyle"/>
+        <attr format="boolean" name="isOnBottomStyle"/>
+        <attr format="boolean" name="isAutoLoadOnBottom"/>
+    </declare-styleable><declare-styleable name="EaseConversationList">
+        <attr format="color" name="cvsListPrimaryTextColor"/>
+        <attr format="color" name="cvsListSecondaryTextColor"/>
+        <attr format="color" name="cvsListTimeTextColor"/>
+        <attr format="dimension" name="cvsListPrimaryTextSize"/>
+        <attr format="dimension" name="cvsListSecondaryTextSize"/>
+        <attr format="dimension" name="cvsListTimeTextSize"/>
+    </declare-styleable><declare-styleable name="EaseChatExtendMenu">
+        <attr format="integer" name="numColumns"/>
+    </declare-styleable><declare-styleable name="EaseImageView">
+        <attr format="color" name="ease_border_color"/>
+        <attr format="dimension" name="ease_border_width"/>
+        <attr format="integer" name="ease_press_alpha"/>
+        <attr format="color" name="ease_press_color"/>
+        <attr format="dimension" name="ease_radius"/>
+        <attr format="enum" name="ease_shape_type">
+            <enum name="none" value="0"/>
+            <enum name="round" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="wheelview">
+        <attr name="gravity">
+            <enum name="center" value="17"/>
+            <enum name="left" value="3"/>
+            <enum name="right" value="5"/>
+        </attr>
+        <attr format="dimension" name="textSize2"/>
+        <attr format="color" name="textColorOut"/>
+        <attr format="color" name="textColorCenter"/>
+        <attr format="color" name="dividerColor"/>
+    </declare-styleable></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\bools.xml" qualifiers=""><bool name="pickerview_customTextSize">true</bool></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\colors.xml" qualifiers=""><color name="list_itease_secondary_color">#888888</color><color name="black_deep">#FF000000</color><color name="list_itease_primary_color">#000</color><color name="holo_orange_light">#ffffbb33</color><color name="btn_answer_pressed">#4ebcd3</color><color name="a_red">#02FF0000</color><color name="btn_gray_normal">#c0c0c0</color><color name="text_color">#777777</color><color name="phone_bar_color">#21282C</color><color name="common_top_bar_blue">#4ebcd3</color><color name="error_item_color">#F6EBE6</color><color name="btn_register_pressed">#00acff</color><color name="line">#aaaaaa</color><color name="btn_logout_pressed">#DA5A4D</color><color name="transparent">#00000000</color><color name="possible_result_points">#c0ffff00</color><color name="btn_white_normal">#f7f8f8</color><color name="emojicon_tab_selected">#D9D9D9</color><color name="lightseagreen">#38bdb3</color><color name="grid_state_pressed">#1Affffff</color><color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color><color name="msg_color">#FFFFFFFF</color><color name="bottom_text_color_normal">#ffffff</color><color name="app_black">#666</color><color name="green">#32B16C</color><color name="btn_green_noraml">#68C270</color><color name="pickerview_timebtn_pre">#55777777</color><color name="blue">#009CFF</color><color name="grid_state_focused">#80000000</color><color name="orange">#ff9933</color><color name="pickerview_bg_topbar">#f5f5f5</color><color name="gray">#ff7f7f7f</color><color name="btn_pressed_green_solid">#B6DA53</color><color name="gray_normal">#666667</color><color name="bgColor_overlay">#60000000</color><color name="btn_gray_pressed_status">#b5b5b6</color><color name="white">#ffffff</color><color name="pickerview_wheelview_textcolor_out">#a8a8a8</color><color name="drop_down_list_header_second_font_color">#000000</color><color name="result_view">#b0000000</color><color name="btn_logout_normal">#d33f3f</color><color name="btn_white_pressed">#b5b5b6</color><color name="emojicon_tab_nomal">#ffffff</color><color name="btn_blue_pressed">#0066FF</color><color name="headergreen">#59B187</color><color name="black">#ff000000</color><color name="btn_unpress_color">#22000000</color><color name="holo_green_light">#ff99cc00</color><color name="btn_green_pressed">#6FCD78</color><color name="btn_login_pressed">#46678d</color><color name="gray_pressed">#b5b5b6</color><color name="voip_interface_text_color">#bababa</color><color name="common_botton_bar_blue">#2ea7e0</color><color name="btn_login_normal">#00acff</color><color name="viewfinder_mask">#60000000</color><color name="bottom_bar_normal_bg">#2D2F31</color><color name="divider_list">#d4d4d4</color><color name="lightgreen">#99CC33</color><color name="dialog_bg">#ffe74c3c</color><color name="common_bottom_bar_selected_bg">#161718</color><color name="pickerview_topbar_title">#000000</color><color name="pickerview_timebtn_nor">#444444</color><color name="red">#ff4444</color><color name="btn_register_normal">#ffffff</color><color name="holo_blue_bright">#ff00ddff</color><color name="traswhite">#92DFF9</color><color name="btn_blue_normal">#1e90ff</color><color name="btn_answer_normal">#2dafa3</color><color name="drop_down_list_footer_font_color">#000000</color><color name="btn_press_color">#66000000</color><color name="top_bar_normal_bg">#00acff</color><color name="btn_gray_pressed">#666667</color><color name="common_bottom_bar_normal_bg">#2d2f31</color><color name="background_tab_pressed">#6633B5E5</color><color name="holo_red_light">#ffff4444</color><color name="drop_down_list_header_font_color">#000000</color><color name="common_bg">#fcfcfc</color><color name="pickerview_wheelview_textcolor_center">#2a2a2a</color><color name="cyan">#00ff00</color><color name="header">#00acff</color><color name="divider_color">#11000000</color></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\dialog_styles.xml" qualifiers=""><style name="dialog_tran" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style><style name="dialog_btn">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">36dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:background">@drawable/btn_selector</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+    </style><style name="DialogWindowTitle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style><style name="dialog_untran" parent="dialog_tran">
+        <item name="android:backgroundDimEnabled">true</item>
+    </style></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\dimens.xml" qualifiers=""><dimen name="indicator_corner_radius">12dp</dimen><dimen name="height_row_weixin">59dp</dimen><dimen name="field_textsize">14sp</dimen><dimen name="margin_chat_activity">5dp</dimen><dimen name="pickerview_topbar_paddingleft">10dp</dimen><dimen name="indicator_right_padding">10dp</dimen><dimen name="dialog_padding">10dip</dimen><dimen name="space_size">2dp</dimen><dimen name="drop_down_list_header_padding_top">12dp</dimen><dimen name="image_thumbnail_spacing">1dp</dimen><dimen name="call_button_padding_right">25dp</dimen><dimen name="call_button_padding_vertical">10dp</dimen><dimen name="drop_down_list_footer_button_height">48dp</dimen><dimen name="size_avatar">48dp</dimen><dimen name="drop_down_list_footer_progress_bar_height">36dp</dimen><dimen name="drop_down_list_footer_button_margin_left">8dp</dimen><dimen name="field_margin_right">5dp</dimen><dimen name="sidebar_text_size">10dp</dimen><dimen name="pickerview_topbar_paddingright">30dp</dimen><dimen name="drop_down_list_header_release_min_distance">20dp</dimen><dimen name="pickerview_topbar_title_textsize">16sp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="header_footer_top_bottom_padding">12dp</dimen><dimen name="pickerview_topbar_btn_textsize">18sp</dimen><dimen name="chat_nick_margin_left">12dp</dimen><dimen name="pickerview_textsize">18dip</dimen><dimen name="image_size">120dp</dimen><dimen name="drop_down_list_header_progress_bar_height">36dp</dimen><dimen name="pickerview_topbar_height">44dp</dimen><dimen name="indicator_internal_padding">4dp</dimen><dimen name="folder_cover_size">72dp</dimen><dimen name="height_top_bar">46dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="chat_nick_text_size">13sp</dimen><dimen name="call_button_padding_left">25dp</dimen><dimen name="header_footer_left_right_padding">24dp</dimen><dimen name="drop_down_list_header_padding_bottom">15dp</dimen><dimen name="image_thumbnail_size">100dp</dimen><dimen name="padding_search_bar">5dp</dimen></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\ids.xml" qualifiers=""><item name="return_scan_result" type="id"/><item name="scrollview" type="id"/><item name="launch_product_query" type="id"/><item name="viewfinder_view" type="id"/><item name="webview" type="id"/><item name="decode_succeeded" type="id"/><item name="decode" type="id"/><item name="gridview" type="id"/><item name="decode_failed" type="id"/><item name="viewpager" type="id"/><item name="encode_succeeded" type="id"/><item name="restart_preview" type="id"/><item name="encode_failed" type="id"/><item name="quit" type="id"/><item name="auto_focus" type="id"/></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\integers.xml" qualifiers=""><integer name="animation_default_duration">300</integer></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\pr_attrs.xml" qualifiers=""><declare-styleable name="PullToRefresh">
+
+        
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        
+        <attr format="reference" name="ptrDrawable"/>
+
+        
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\pull_refresh_strings.xml" qualifiers=""><string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string><string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string><string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string><string name="pull_to_refresh_refreshing_label">正在载入…</string><string name="pull_to_refresh_pull_label">下拉刷新…</string><string name="pull_to_refresh_release_label">放开以刷新…</string></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\strings.xml" qualifiers=""><string name="drop_down_list_footer_default_text">更多</string><string name="enable_camera">是否启用照相机</string><string name="scan_tips">将二维码放入框内, 即可自动扫描</string><string name="image_content">图片</string><string name="max_select_amount">最大选择数量</string><string name="xlistview_header_hint_loading">正在加载...</string><string name="create">生成</string><string name="drop_down_list_header_release_text">松开可以刷新</string><string name="folder_all">所有照片</string><string name="xlistview_footer_hint_normal">查看更多</string><string name="xlistview_header_hint_normal">下拉刷新</string><string name="go_select">图片选择</string><string name="bottom_hint">建议与镜头保持10CM距离，尽量避免逆光和阴影</string><string name="disable">否</string><string name="msg_camera_framework_bug">抱歉，Android相机出现问题。您可能需要重启设备。</string><string name="hello_world">Hello world!</string><string name="msg_no_camera">没有系统相机</string><string name="drop_down_list_header_pull_text">下拉可以刷新</string><string name="seekbar_minus">-</string><string name="xlistview_header_last_time">上次更新时间：</string><string name="select_mode">选择模式</string><string name="top_hint">将条形码或二维码置于取景框内系统会自动扫描</string><string name="xlistview_header_hint_ready">下拉刷新</string><string name="action_settings">设置</string><string name="app_name">b_library</string><string name="hint_default_amount">默认数量为9</string><string name="cancel">取消</string><string name="preview">预览</string><string name="enable">是</string><string name="mode_single">单选</string><string name="scan_failed">扫描失败</string><string name="msg_amount_limit">已经达到最高选择数量</string><string name="drop_down_list_header_loading_text">加载中…</string><string name="pickerview_submit">确定</string><string name="button_ok">确定</string><string name="xlistview_footer_hint_ready">松开载入更多</string><string name="drop_down_list_header_default_text">点击可以刷新</string><string name="drop_down_list_footer_no_more_text">没有更多了</string><string name="placeHolder">placeHolder</string><string name="seekbar_add">+</string><string name="drop_down_list_footer_loading_text">加载中…</string><string name="mode_multi">多选</string><string name="pickerview_cancel">取消</string></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\styles.xml" qualifiers=""><style name="MyDialogStyleTop" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimTop2</item>
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">false</item>
+        
+    </style><style name="drop_down_list_footer_font_style">
+        <item name="android:textColor">@color/drop_down_list_footer_font_color</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    </style><style name="AnimTop2" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_top_in2</item>
+        <item name="android:windowExitAnimation">@anim/push_top_out2</item>
+    </style><style name="Anim_style2" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade</item>
+    </style><style name="MyDialogStyleBottom" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimBottom</item>
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+    </style><style name="BaseDialog" parent="@android:style/Theme.Dialog"/><style name="AnimFade" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/fade_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/hold</item>
+        <item name="android:activityCloseExitAnimation">@anim/fade_out</item>
+    </style><style name="devide_line_eee">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1.5dp</item>
+        <item name="android:background">#eee</item>
+    </style><style name="HeadScale" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimHead</item>
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        
+    </style><style name="drop_down_list_header_font_style">
+        <item name="android:textColor">@color/drop_down_list_header_font_color</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    </style><style name="horizontal_slide" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade2</item>
+    </style><style name="AnimFade2" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_right</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_from_left</item>
+    </style><style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style><style name="Theme.Light.FullScreenDialogAct" parent="@style/BaseDialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff555555</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style><style name="drop_down_list_footer_progress_bar_style">
+        <item name="android:minHeight">@dimen/drop_down_list_footer_progress_bar_height</item>
+        <item name="android:maxHeight">@dimen/drop_down_list_footer_progress_bar_height</item>
+    </style><style name="AnimHead" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/head_in</item>
+        <item name="android:windowExitAnimation">@anim/head_out</item>
+    </style><style name="drop_down_list_header_progress_bar_style">
+        <item name="android:minHeight">@dimen/drop_down_list_header_progress_bar_height</item>
+        <item name="android:maxHeight">@dimen/drop_down_list_header_progress_bar_height</item>
+    </style><style name="AnimTop" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_top_in</item>
+        <item name="android:windowExitAnimation">@anim/push_top_out</item>
+    </style><style name="drop_down_list_header_second_font_style">
+        <item name="android:textColor">@color/drop_down_list_header_second_font_color</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="Anim_style" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@style/AnimFade</item>
+    </style><style name="Style_Dialog_Button_vinord">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff425968</item>
+        <item name="android:minHeight">40.0dip</item>
+    </style><style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        
+    </style><style name="nornal_style" parent="android:Theme.NoTitleBar"/><style name="MyAlertDialog" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\vpi__attrs.xml" qualifiers=""><attr format="dimension" name="strokeWidth"/><declare-styleable name="ViewPagerIndicator">
+        
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiIconPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><attr format="color" name="unselectedColor"/><declare-styleable name="CirclePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr format="color" name="fillColor"/>
+        
+        <attr format="color" name="pageColor"/>
+        
+        <attr name="android:orientation"/>
+        
+        <attr format="dimension" name="radius"/>
+        
+        <attr format="boolean" name="snap"/>
+        
+        <attr format="color" name="strokeColor"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><attr format="color" name="selectedColor"/><attr format="boolean" name="centered"/><attr format="dimension" name="selectstrokeWidth"/><attr format="dimension" name="unSelectstrokeWidth"/><declare-styleable name="LinePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr name="unselectedColor"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="dimension" name="lineWidth"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr format="dimension" name="gapWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="UnderlinePageIndicator">
+        
+        <attr format="boolean" name="fades"/>
+        
+        <attr format="integer" name="fadeDelay"/>
+        
+        <attr format="integer" name="fadeLength"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="TitlePageIndicator">
+        
+        <attr format="dimension" name="clipPadding"/>
+        
+        <attr format="color" name="footerColor"/>
+        
+        <attr format="dimension" name="footerLineHeight"/>
+        
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        
+        <attr format="dimension" name="footerPadding"/>
+        
+        <attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="boolean" name="selectedBold"/>
+        
+        <attr name="android:textColor"/>
+        
+        <attr name="android:textSize"/>
+        
+        <attr format="dimension" name="titlePadding"/>
+        
+        <attr format="dimension" name="topPadding"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\vpi__colors.xml" qualifiers=""><color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color><color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color><color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color><color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color><color name="vpi__background_holo_dark">#ff000000</color><color name="vpi__background_holo_light">#fff3f3f3</color></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\vpi__defaults.xml" qualifiers=""><dimen name="default_title_indicator_title_padding">5dp</dimen><dimen name="default_circle_indicator_stroke_width">1dp</dimen><dimen name="default_title_indicator_footer_indicator_height">4dp</dimen><bool name="default_circle_indicator_centered">true</bool><color name="default_circle_indicator_page_color">#00000000</color><dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen><dimen name="default_circle_indicator_radius">3dp</dimen><integer name="default_underline_indicator_fade_length">400</integer><integer name="default_circle_indicator_orientation">0</integer><integer name="default_underline_indicator_fade_delay">300</integer><integer name="default_title_indicator_footer_indicator_style">2</integer><color name="default_underline_indicator_selected_color">#FF33B5E5</color><dimen name="default_line_indicator_gap_width">4dp</dimen><color name="default_line_indicator_selected_color">#FF33B5E5</color><bool name="default_circle_indicator_snap">false</bool><color name="default_line_indicator_unselected_color">#FFBBBBBB</color><color name="default_title_indicator_selected_color">#FFFFFFFF</color><dimen name="default_line_indicator_line_width">12dp</dimen><dimen name="default_title_indicator_clip_padding">4dp</dimen><dimen name="default_title_indicator_footer_line_height">2dp</dimen><integer name="default_title_indicator_line_position">0</integer><dimen name="default_title_indicator_text_size">15dp</dimen><dimen name="default_title_indicator_footer_padding">7dp</dimen><color name="default_title_indicator_text_color">#BBFFFFFF</color><bool name="default_title_indicator_selected_bold">true</bool><dimen name="default_line_indicator_stroke_width">1dp</dimen><dimen name="default_title_indicator_top_padding">7dp</dimen><color name="default_circle_indicator_stroke_color">#FFDDDDDD</color><color name="default_title_indicator_footer_color">#FF33B5E5</color><bool name="default_line_indicator_centered">true</bool><color name="default_circle_indicator_fill_color">#FFFFFFFF</color><bool name="default_underline_indicator_fades">true</bool></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values\vpi__styles.xml" qualifiers=""><style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style><style name="Widget">
+    </style><style name="Theme.PageIndicatorDefaults" parent="AppBaseTheme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style><style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style><style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        
+    </style></file><file path="D:\Workspaces\HHYuanLing\b_library\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+    </style></file></source><source path="D:\Workspaces\HHYuanLing\b_library\build\generated\res\rs\release"/><source path="D:\Workspaces\HHYuanLing\b_library\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="D:\Workspaces\HHYuanLing\b_library\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="EaseSwitchButton"><attr format="reference" name="switchOpenImage"/><attr format="reference" name="switchCloseImage"/><attr name="switchStatus">
+            <enum name="open" value="0"/>
+            <enum name="close" value="1"/>
+        </attr></declare-styleable><declare-styleable name="wheelview"><attr name="gravity">
+            <enum name="center" value="17"/>
+            <enum name="left" value="3"/>
+            <enum name="right" value="5"/>
+        </attr><attr format="dimension" name="textSize2"/><attr format="color" name="textColorOut"/><attr format="color" name="textColorCenter"/><attr format="color" name="dividerColor"/></declare-styleable><declare-styleable name="SlidingDrawer"><attr format="boolean" name="animateOnClick"/><attr format="boolean" name="allowSingleTap"/><attr format="dimension" name="topOffset"/><attr format="dimension" name="bottomOffset"/><attr name="orientation"/><attr format="reference" name="handle"/><attr format="reference" name="content"/></declare-styleable><declare-styleable name="EaseImageView"><attr format="color" name="ease_border_color"/><attr format="dimension" name="ease_border_width"/><attr format="integer" name="ease_press_alpha"/><attr format="color" name="ease_press_color"/><attr format="dimension" name="ease_radius"/><attr format="enum" name="ease_shape_type">
+            <enum name="none" value="0"/>
+            <enum name="round" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr></declare-styleable><declare-styleable name="EaseTitleBar"><attr format="string" name="titleBarTitle"/><attr format="reference" name="titleBarLeftImage"/><attr format="reference" name="titleBarRightImage"/><attr format="reference|color" name="titleBarBackground"/></declare-styleable><declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable><declare-styleable name="EaseContactList"><attr format="color" name="ctsListPrimaryTextColor"/><attr format="dimension" name="ctsListPrimaryTextSize"/><attr format="boolean" name="ctsListShowSiderBar"/><attr format="reference|color" name="ctsListInitialLetterBg"/><attr format="color" name="ctsListInitialLetterColor"/></declare-styleable><declare-styleable name="EaseConversationList"><attr format="color" name="cvsListPrimaryTextColor"/><attr format="color" name="cvsListSecondaryTextColor"/><attr format="color" name="cvsListTimeTextColor"/><attr format="dimension" name="cvsListPrimaryTextSize"/><attr format="dimension" name="cvsListSecondaryTextSize"/><attr format="dimension" name="cvsListTimeTextSize"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="ViewDataEmpty"><attr format="reference" name="viewMain"/><attr format="reference" name="viewEmpty"/></declare-styleable><declare-styleable name="EaseChatExtendMenu"><attr format="integer" name="numColumns"/></declare-styleable><declare-styleable name="EaseChatMessageList"><attr format="reference" name="msgListMyBubbleBackground"/><attr format="reference" name="msgListOtherBubbleBackground"/><attr format="boolean" name="msgListShowUserAvatar"/><attr format="boolean" name="msgListShowUserNick"/></declare-styleable><declare-styleable name="CircularImageView"><attr format="boolean" name="border"/><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="shadow"/></declare-styleable><declare-styleable name="drop_down_list_attr"><attr format="boolean" name="isDropDownStyle"/><attr format="boolean" name="isOnBottomStyle"/><attr format="boolean" name="isAutoLoadOnBottom"/></declare-styleable><declare-styleable name="Theme"><attr format="reference" name="circularImageViewStyle"/></declare-styleable><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable><declare-styleable name="EaseEmojiconMenu"><attr format="integer" name="bigEmojiconRows"/><attr format="integer" name="emojiconColumns"/></declare-styleable></configuration></mergedItems></merger>

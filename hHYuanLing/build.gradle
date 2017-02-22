@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    useLibrary 'org.apache.http.legacy'
+    defaultConfig {
+        applicationId "com.henghao.parkland"
+        minSdkVersion 10
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+
+dependencies {
+    compile project(':b_library')
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    compile files('libs/baidumapapi_base_v4_1_1.jar')
+    compile files('libs/baidumapapi_map_v4_1_1.jar')
+    compile files('libs/jxl.jar')
+    compile files('libs/locSDK_6.13.jar')
+    compile files('libs/pushservice-4.5.3.48.jar')
+    compile 'com.squareup.okhttp:okhttp:2.6.0'
+    compile 'com.jakewharton:butterknife:5.1.1'
+}

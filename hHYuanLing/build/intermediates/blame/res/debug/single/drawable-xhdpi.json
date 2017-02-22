@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_loading_default_big.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\img_loading_default_big.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_loading_empty_big.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\img_loading_empty_big.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pub_input_box.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\pub_input_box.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page_btn.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\page_btn.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\complted.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\complted.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\attention.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\attention.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle_close.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\circle_close.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_icon.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\default_icon.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_loading_fail_big.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\img_loading_fail_big.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_xunjian.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\ico_xunjian.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tree_marker.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\tree_marker.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gouxuanno.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\gouxuanno.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tree_marker2.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\tree_marker2.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pay_done.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\pay_done.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gouxuanok.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xhdpi\\gouxuanok.png"
+    }
+]

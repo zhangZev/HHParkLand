@@ -1,0 +1,7 @@
+#Tue Feb 21 17:18:57 GMT+08:00 2017
+base.0=D\:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_89a34276c2776925721bb252864ac10fdc5f549e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6ac6b5831a5804ca80dadc49fbde66afbf59aa45\\classes.dex
+base.1=D\:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6ac6b5831a5804ca80dadc49fbde66afbf59aa45
+file.0=D\:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_89a34276c2776925721bb252864ac10fdc5f549e\\classes.dex

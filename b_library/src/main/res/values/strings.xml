@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">b_library</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">下拉刷新</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+
+    <!-- phone -->
+    <string name="folder_all">所有照片</string>
+    <string name="action_settings">设置</string>
+    <string name="select_mode">选择模式</string>
+    <string name="mode_single">单选</string>
+    <string name="mode_multi">多选</string>
+    <string name="max_select_amount">最大选择数量</string>
+    <string name="hint_default_amount">默认数量为9</string>
+    <string name="enable_camera">是否启用照相机</string>
+    <string name="enable">是</string>
+    <string name="disable">否</string>
+    <string name="go_select">图片选择</string>
+    <string name="preview">预览</string>
+    <string name="msg_no_camera">没有系统相机</string>
+    <string name="msg_amount_limit">已经达到最高选择数量</string>
+    <!-- drop_down_list -->
+    <string name="drop_down_list_header_default_text">点击可以刷新</string>
+    <string name="drop_down_list_header_pull_text">下拉可以刷新</string>
+    <string name="drop_down_list_header_release_text">松开可以刷新</string>
+    <string name="drop_down_list_header_loading_text">加载中&#8230;</string>
+    <string name="drop_down_list_footer_default_text">更多</string>
+    <string name="drop_down_list_footer_loading_text">加载中&#8230;</string>
+    <string name="drop_down_list_footer_no_more_text">没有更多了</string>
+    <string name="image_content">图片</string>
+    <string name="pickerview_cancel">取消</string>
+    <string name="pickerview_submit">确定</string>
+    <!-- zxing -->
+    <string name="scan_tips">将二维码放入框内, 即可自动扫描</string>
+
+    <!-- 扫描 -->
+    <string name="placeHolder">placeHolder</string>
+    <string name="seekbar_add">+</string>
+    <string name="seekbar_minus">-</string>
+    <string name="create">生成</string>
+    <string name="scan_failed">扫描失败</string>
+    <string name="bottom_hint">建议与镜头保持10CM距离，尽量避免逆光和阴影</string>
+    <string name="top_hint">将条形码或二维码置于取景框内系统会自动扫描</string>
+    <string name="cancel">取消</string>
+    <string name="msg_camera_framework_bug">抱歉，Android相机出现问题。您可能需要重启设备。</string>
+    <string name="button_ok">确定</string>
+
+</resources>

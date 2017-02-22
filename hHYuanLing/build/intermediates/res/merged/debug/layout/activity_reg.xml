@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 用户名和密码编辑框 -->
+
+    <LinearLayout
+        android:id="@+id/edit_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/padding_big"
+        android:layout_marginRight="@dimen/padding_big"
+        android:layout_marginTop="@dimen/padding_big"
+        android:background="@drawable/dl_content_bg"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/padding_vertical"
+        android:paddingLeft="@dimen/padding_normal"
+        android:paddingRight="@dimen/padding_normal"
+        android:paddingTop="@dimen/padding_vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/padding_big"
+            android:gravity="center"
+            android:padding="@dimen/padding_normal"
+            android:text="注册享受更贴心的定制服务"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/gj_c" />
+
+        <EditText
+            android:id="@+id/login_user"
+            style="@style/Shop.Widget.EditText"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_height"
+            android:gravity="bottom"
+            android:hint="@string/login_user"
+            android:inputType="text"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:paddingBottom="@dimen/padding_normal"
+            android:paddingLeft="@dimen/padding_normal"
+            android:singleLine="true"
+            android:textColorHint="@color/hint_color" />
+
+        <EditText
+            android:id="@+id/login_phone"
+            style="@style/Shop.Widget.EditText"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_height"
+            android:gravity="bottom"
+            android:hint="@string/register_echo_phone"
+            android:inputType="phone"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:paddingBottom="@dimen/padding_normal"
+            android:paddingLeft="@dimen/padding_normal"
+            android:singleLine="true"
+            android:textColorHint="@color/hint_color" />
+
+        <EditText
+            android:id="@+id/login_pass"
+            style="@style/Shop.Widget.EditText"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_height"
+            android:gravity="bottom"
+            android:hint="@string/register_echo_pass"
+            android:inputType="textPassword"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:paddingBottom="@dimen/padding_normal"
+            android:paddingLeft="@dimen/padding_normal"
+            android:singleLine="true"
+            android:textColorHint="@color/hint_color" />
+
+        <EditText
+            android:id="@+id/login_passagain"
+            style="@style/Shop.Widget.EditText"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_height"
+            android:gravity="bottom"
+            android:hint="@string/register_echo_repeat_pass"
+            android:inputType="textPassword"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:paddingBottom="@dimen/padding_normal"
+            android:paddingLeft="@dimen/padding_normal"
+            android:singleLine="true"
+            android:textColorHint="@color/hint_color" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/btn_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_layout"
+        android:layout_marginLeft="@dimen/padding_big"
+        android:layout_marginRight="@dimen/padding_big"
+        android:layout_marginTop="18dip"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/view_height"
+            android:background="@drawable/btn_bluecircleframe"
+            android:gravity="center"
+            android:text="@string/login"
+            android:textColor="@color/white"
+            android:textSize="@dimen/gj_f"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+
+        <TextView
+            android:id="@+id/tv_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_bluecircleframe"
+            android:gravity="center"
+            android:paddingBottom="@dimen/padding_big"
+            android:paddingLeft="@dimen/padding_vertical_a"
+            android:paddingRight="@dimen/padding_vertical_a"
+            android:paddingTop="@dimen/padding_big"
+            android:text="@string/register_finish"
+            android:textColor="@color/white"
+            android:textSize="@dimen/gj_d" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

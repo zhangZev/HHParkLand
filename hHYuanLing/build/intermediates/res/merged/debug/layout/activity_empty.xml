@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/empty_id"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/transparent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/empty_img"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/padding_big"
+        android:src="@drawable/app_not_accesswifi" />
+
+    <TextView
+        android:id="@+id/empty_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/padding_vertical"
+        android:gravity="center"
+        android:text="@string/app_notaccesswifi"
+        android:textColor="@color/text_color_a"
+        android:textSize="@dimen/gj_d" />
+
+    <TextView
+        android:id="@+id/empty_goto"
+        android:layout_width="match_parent"
+        android:layout_height="38.0dip"
+        android:layout_gravity="center"
+        android:layout_marginTop="8.0dip"
+        android:gravity="center"
+        android:text="@string/app_refrsh"
+        android:textColor="#ff666666"
+        android:textSize="@dimen/gj_c"
+        android:visibility="gone" />
+
+</LinearLayout>

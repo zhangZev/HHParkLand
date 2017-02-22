@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- The PullToRefreshGridView replaces a standard GridView widget. -->
+
+<com.benefit.buy.library.pulltorefresh.library.PullToRefreshListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/pull_refresh_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    ptr:ptrHeaderBackground="@color/transparent"
+    ptr:ptrHeaderTextColor="@android:color/black"
+    ptr:ptrMode="both" />

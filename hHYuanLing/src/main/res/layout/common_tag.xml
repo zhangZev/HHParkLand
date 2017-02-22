@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <!-- 云标签 -->
+    <com.henghao.wenbo.views.tagview.TagView
+        android:id="@+id/localTagView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minHeight="0.0dip"
+        android:minWidth="@dimen/padding_normal"
+        android:padding="4.5dip"
+        android:textColor="@color/text_color_b"
+        android:textSize="@dimen/gj_d" />
+
+</LinearLayout>

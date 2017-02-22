@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <!-- 工作台 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/padding_normal"
+        android:layout_marginTop="@dimen/padding_normal"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <View
+            android:layout_width="0dip"
+            android:layout_height="1dip"
+            android:layout_weight="1"
+            android:background="@color/line" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/padding_normal"
+            android:paddingRight="@dimen/padding_normal"
+            android:text="信息显示" />
+
+        <View
+            android:layout_width="0dip"
+            android:layout_height="1dip"
+            android:layout_weight="1"
+            android:background="@color/line" />
+    </LinearLayout>
+
+    <!-- 左右滑动图片布局 -->
+
+    <include layout="@layout/common_viewpages" />
+
+    <!-- 信息展示列表 -->
+
+    <com.benefit.buy.library.views.NoScrollListView
+        android:id="@+id/listview_noscroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/white"
+        android:dividerHeight="0dip" >
+    </com.benefit.buy.library.views.NoScrollListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/padding_normal"
+        android:layout_marginTop="@dimen/padding_normal"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <View
+            android:layout_width="0dip"
+            android:layout_height="1dip"
+            android:layout_weight="1"
+            android:background="@color/line" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/padding_normal"
+            android:paddingRight="@dimen/padding_normal"
+            android:text="需求发布" />
+
+        <View
+            android:layout_width="0dip"
+            android:layout_height="1dip"
+            android:layout_weight="1"
+            android:background="@color/line" />
+    </LinearLayout>
+
+</LinearLayout>

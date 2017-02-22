@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/tab_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:visibility="gone"></LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/tab_content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/tabs_root"
+        android:layout_below="@+id/tab_top"
+        android:background="#00000000" />
+
+    <LinearLayout
+        android:id="@+id/tabs_root"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#e3e3e3" />
+
+        <RadioGroup
+            android:id="@+id/tabs_rg"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/header"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/padding_small"
+            android:paddingTop="@dimen/padding_small">
+
+            <RadioButton
+                android:id="@+id/yg_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:button="@null"
+                android:checked="true"
+                android:drawablePadding="@dimen/padding_small"
+                android:drawableTop="@drawable/selector_home"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/hc_home"
+                android:textColor="@drawable/tab_selector"
+                android:textSize="@dimen/gj_d" />
+
+            <RadioButton
+                android:id="@+id/hc_mall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:button="@null"
+                android:drawablePadding="@dimen/padding_small"
+                android:drawableTop="@drawable/selector_mall"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/hc_xinxi"
+                android:textColor="@drawable/tab_selector"
+                android:textSize="@dimen/gj_d" />
+            <!-- 工作台 -->
+
+            <RadioButton
+                android:id="@+id/hc_work"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:button="@null"
+                android:drawablePadding="@dimen/padding_small"
+                android:drawableTop="@drawable/selector_work"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/hc_work"
+                android:textColor="@drawable/tab_selector"
+                android:textSize="@dimen/gj_d" />
+
+            <RadioButton
+                android:id="@+id/hc_xiangmu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:button="@null"
+                android:drawablePadding="@dimen/padding_small"
+                android:drawableTop="@drawable/selector_xiangmu"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/hc_xiangmu"
+                android:textColor="@drawable/tab_selector"
+                android:textSize="@dimen/gj_d" />
+
+            <RadioButton
+                android:id="@+id/hc_xiangmuganli"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:button="@null"
+                android:drawablePadding="@dimen/padding_small"
+                android:drawableTop="@drawable/selector_xiangmuguanli"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/hc_xiangmuguanl"
+                android:textColor="@drawable/tab_selector"
+                android:textSize="@dimen/gj_d" />
+
+            <RadioButton
+                android:id="@+id/hc_my"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_tab"
+                android:button="@null"
+                android:drawablePadding="@dimen/padding_small"
+                android:drawableTop="@drawable/selector_my"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/hc_my"
+                android:textColor="@drawable/tab_selector"
+                android:textSize="@dimen/gj_d" />
+        </RadioGroup>
+    </LinearLayout>
+
+</RelativeLayout>

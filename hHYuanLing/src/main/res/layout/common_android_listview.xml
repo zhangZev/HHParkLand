@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mlistview"
+    android:layout_width="match_parent"
+    android:layout_height="100dip"
+    android:cacheColorHint="@color/transparent"
+    android:divider="@color/transparent"
+    android:fadingEdge="none"
+    android:focusable="true"
+    android:listSelector="@drawable/list_selector_transition"
+    android:splitMotionEvents="false" />
+<!-- android:dividerHeight="@dimen/padding_normal" -->

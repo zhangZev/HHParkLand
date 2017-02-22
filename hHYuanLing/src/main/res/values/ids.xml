@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="activity_main" />
+    <item type="id" name="activity_data_empty" />
+    <item type="id" name="common_activity_views" />
+    <item type="id" name="common_activity" />
+    <item type="id" name="common_activity_frament" />
+    <item type="id" name="common_activity_type" />
+    <item name="guide_container" type="id"/>
+</resources>

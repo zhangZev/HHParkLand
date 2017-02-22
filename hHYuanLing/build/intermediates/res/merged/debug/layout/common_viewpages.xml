@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- 广告 -->
+
+    <com.henghao.parkland.views.viewpage.AutoScrollViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="180dip"
+        android:layout_alignParentTop="true" />
+
+    <!--app:fillColor="@color/header"
+        app:pageColor="@color/white"
+        app:strokeColor="@color/header"-->
+    <com.benefit.buy.library.viewpagerindicator.CirclePageIndicator
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/view_pager"
+        android:layout_alignParentRight="true"
+        android:padding="10dip" />
+
+</RelativeLayout>

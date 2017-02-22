@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 云标签列表 -->
+
+    <com.henghao.wenbo.views.tagview.TagListView
+        xmlns:f="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/tagview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/padding_normal"
+        android:paddingLeft="@dimen/padding_normal"
+        android:paddingRight="@dimen/padding_normal"
+        android:paddingTop="@dimen/padding_big"
+        f:horizontalSpacing="@dimen/padding_normal"
+        f:orientation="horizontal"
+        f:verticalSpacing="@dimen/padding_normal" />
+
+</LinearLayout>

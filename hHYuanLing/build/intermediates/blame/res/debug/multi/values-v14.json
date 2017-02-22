@@ -1,0 +1,285 @@
+[
+    {
+        "outputFile": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 70,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 82,
+                    "endOffset": 919
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 924,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1751
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1756,
+                    "endColumn": 119,
+                    "endOffset": 1871
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1876,
+                    "endColumn": 131,
+                    "endOffset": 2003
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 131,
+                        "endOffset": 1564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2008,
+                    "endColumn": 119,
+                    "endOffset": 2123
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endColumn": 119,
+                        "endOffset": 1684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2128,
+                    "endColumn": 62,
+                    "endOffset": 2186
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1689,
+                        "endColumn": 62,
+                        "endOffset": 1747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2191,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2340
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1752,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2345,
+                    "endColumn": 62,
+                    "endOffset": 2403
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1906,
+                        "endColumn": 62,
+                        "endOffset": 1964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2408,
+                    "endColumn": 131,
+                    "endOffset": 2535
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1969,
+                        "endColumn": 131,
+                        "endOffset": 2096
+                    }
+                }
+            }
+        ]
+    }
+]

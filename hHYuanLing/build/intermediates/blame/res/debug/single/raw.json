@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\raw\\qrcode_completed.mp3",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\raw\\qrcode_completed.mp3"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\raw\\discovered_tag_notification.ogg",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\raw\\discovered_tag_notification.ogg"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

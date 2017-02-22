@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_one.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\app_one.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_page_04.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\bg_page_04.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectmy1_1.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectmy1_1.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\off_btn.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\off_btn.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectmy1_2.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectmy1_2.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_datatime.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_datatime.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_color.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\bg_color.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_time_qiandao.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_time_qiandao.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_more.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_more.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\spinner.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\spinner.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\scan_right.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\scan_right.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\strikethrough.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\strikethrough.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\left_title.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\left_title.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_eleven.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_eleven.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_project1_1.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_project1_1.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\search.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_beizhu.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_beizhu.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_notview.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\app_notview.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\undo.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\undo.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nfc.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\nfc.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\login_edittext.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\login_edittext.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_three.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\app_three.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_twelve.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_twelve.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\redo.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\redo.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yjfk_input_bg.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\yjfk_input_bg.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\subscript.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\subscript.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_stuff.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\ic_stuff.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\capture_light.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\capture_light.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_four.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\app_four.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\right_title.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\right_title.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\insert_image.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\insert_image.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectfore.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectfore.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_nine.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_nine.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\arrow_down_.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\arrow_down_.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectfive.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectfive.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectrzbw.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectrzbw.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_hot.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_hot.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_three.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_three.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\on_btn.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\on_btn.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_seven.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_seven.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_five.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_five.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_camera_qiandao.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_camera_qiandao.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\arrow_right.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_page_03.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\bg_page_03.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_freetips.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_freetips.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_logo.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_logo.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bold.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\bold.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab1_2.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab1_2.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\superscript.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\superscript.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectsgbw.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectsgbw.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dot_selected.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\ic_dot_selected.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_adroling.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_adroling.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\banber_two.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\banber_two.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_red.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\btn_red.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_one.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_one.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab5_2.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab5_2.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_two.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\app_two.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_money.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_money.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectthree.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectthree.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectone.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectone.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_type.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_type.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_six.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\app_six.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\iconcircle_close.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\iconcircle_close.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_five.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\app_five.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\login_background.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\login_background.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_qiehuan.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\app_qiehuan.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projecteight.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projecteight.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\outdent.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\outdent.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projecsgzl.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projecsgzl.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\baner_one.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\baner_one.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\encode_btn.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\encode_btn.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\justify_center.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\justify_center.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab1_1.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab1_1.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\banner_tird.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\banner_tird.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab0_1.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab0_1.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab2_1.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab2_1.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_marker_qiandao.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_marker_qiandao.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab5_1.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab5_1.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab4_1.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab4_1.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab3_1.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab3_1.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab0_2.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab0_2.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_not_accesswifi.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\app_not_accesswifi.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab2_2.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab2_2.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectseven.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectseven.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_ten.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_ten.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab4_2.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab4_2.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\youhui.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\youhui.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\capture_pic.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\capture_pic.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_back.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_time.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_time.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\italic.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\italic.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_page_01.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\bg_page_01.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\smoothlistview_arrow.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\smoothlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_edit_biankuang.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_edit_biankuang.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\arrow_down.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_company_qiandao.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_company_qiandao.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dot_default.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\ic_dot_default.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\justify_left.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\justify_left.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ico_nfc.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\ico_nfc.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_circle.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\btn_circle.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\login_btn.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\login_btn.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_grayciecle.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_grayciecle.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_thirty.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_thirty.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projecttwo.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projecttwo.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_eight.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_eight.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_page_02.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\bg_page_02.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_eight.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_eight.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_confirm_qiandao.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_confirm_qiandao.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_decortedusers.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_decortedusers.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\indent.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\indent.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_login.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_login.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\insert_link.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\insert_link.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\left_select.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\left_select.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectsgjh.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectsgjh.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\txt_color.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\txt_color.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\capture_back.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\capture_back.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ico_scan.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\ico_scan.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_two.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_two.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_liebiao.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_liebiao.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_six.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_six.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tree_market.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\tree_market.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\underline.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\underline.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\blockquote.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\blockquote.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_page_05.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\bg_page_05.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_tab3_2.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\home_tab3_2.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_seven.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\app_seven.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectsgzj.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectsgzj.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\justify_right.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\justify_right.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_fourtity.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_fourtity.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_project1_2.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_project1_2.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_four.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\my_four.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_projectsix.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_projectsix.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_orangecircle.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\hHYuanLing\\src\\main\\res\\drawable-xxhdpi\\icon_orangecircle.png"
+    }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding_normal" >
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="香樟树（共22棵）"
+            android:textColor="@color/text_color_a" />
+
+        <TextView
+            android:id="@+id/tv_not"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/padding_normal"
+            android:text="未检10"
+            android:textColor="@color/orange" />
+
+        <TextView
+            android:id="@+id/tv_jian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/padding_normal"
+            android:text="已检12"
+            android:textColor="@color/text_color_a" />
+
+        <ImageView
+            android:id="@+id/img_tip"
+            android:layout_width="@dimen/padding_vertical"
+            android:layout_height="@dimen/padding_vertical"
+            android:layout_marginLeft="@dimen/padding_normal"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

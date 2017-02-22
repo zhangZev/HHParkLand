@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.henghao.parkland"
+    android:versionCode="2"
+    android:versionName="1.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="21" />
+
+    <!-- 判断是否联网操作权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 联网操作权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- SD卡操作权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 程序退出操作权限 -->
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <!-- NFC权限 -->
+    <uses-permission android:name="android.permission.NFC" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+    <!-- 扫描二维码所需权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- 百度地图 -->
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- SD卡读取权限，用户写入离线定位数据 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+
+    <application
+        android:name="com.henghao.parkland.FMApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/icon_logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- 启动页 -->
+        <activity
+            android:name="com.henghao.parkland.activity.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 主页 -->
+        <activity
+            android:name="com.henghao.parkland.activity.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.nfc.action.TECH_DISCOVERED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.nfc.action.TECH_DISCOVERED"
+                android:resource="@xml/nfc_tech_filter" />
+        </activity>
+
+        <!-- activity 巡检界面 -->
+        <activity
+            android:name="com.henghao.parkland.activity.ISOActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Activity.Theme" />
+        <!-- activity 引导页 -->
+        <activity
+            android:name="com.henghao.parkland.activity.GuideActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Activity.Theme" />
+        <activity
+            android:name="com.henghao.parkland.activity.QiandaoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Activity.Theme" />
+        <activity
+            android:name="com.henghao.parkland.activity.QiandaoSubmitActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Activity.Theme" />
+        <!-- 登录 -->
+        <activity
+            android:name="com.henghao.parkland.activity.LoginActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/Activity.Theme.Login"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.henghao.parkland.activity.RegActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 测试View -->
+        <activity
+            android:name="com.henghao.parkland.activity.ViewTestActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 植物养护信息界面 -->
+        <activity
+            android:name="com.henghao.parkland.activity.MaintenanceActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 养护主页面 -->
+        <activity
+            android:name="com.henghao.parkland.activity.YanghuMainActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 养护管理界面 -->
+        <activity
+            android:name="com.henghao.parkland.activity.YhManageActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 管护信息填写界面 -->
+        <activity
+            android:name="com.henghao.parkland.activity.GuanhuActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 植物信息录入界面 -->
+        <activity
+            android:name="com.henghao.parkland.activity.TreeMessageActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 项目管理界面 -->
+        <activity
+            android:name="com.henghao.parkland.activity.ProjectActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 工作备忘 -->
+        <activity
+            android:name="com.henghao.parkland.activity.ProjectWorkActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 施工备忘 -->
+        <activity
+            android:name="com.henghao.parkland.activity.ProjectSGActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 施工材料 -->
+        <activity
+            android:name="com.henghao.parkland.activity.ProjectSGMaterialsActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.henghao.parkland.activity.YHDataActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 日志备忘 -->
+        <activity
+            android:name="com.henghao.parkland.activity.LogForgetActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 施工钱包 -->
+        <activity
+            android:name="com.henghao.parkland.activity.ProjectMoneyActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- 工作日志 -->
+        <activity
+            android:name="com.henghao.parkland.activity.ProjectLogActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- webView通用 -->
+        <activity
+            android:name="com.henghao.parkland.activity.CommonWebActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- activity 启动本地图片和相机 -->
+        <activity
+            android:name="com.benefit.buy.library.phoneview.MultiImageSelectorActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/Activity.Theme" />
+
+        <!-- activity 二维码扫描 -->
+        <activity
+            android:name="com.zbar.lib.zxing.CaptureActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/Activity.Theme" />
+
+        <!-- 检查网络问题 -->
+        <service android:name="com.henghao.parkland.service.ReConnectService" />
+        <!-- 推送 -->
+        <service android:name="com.henghao.parkland.service.PushParseJsonService" />
+        <!-- 检查app和更新信息 -->
+        <!-- <service android:name="com.henghao.parkland.service.AppInfoService" > -->
+        <!-- </service> -->
+
+
+        <!-- 百度地图所需的service -->
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" />
+
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="Gr4Rq0Yl84nFIXH9lfNa5VkSKOKpEb1L" />
+    </application>
+
+</manifest>

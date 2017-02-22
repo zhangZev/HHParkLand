@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/m_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#050505"
+            android:gravity="center"
+            android:padding="@dimen/padding_normal"
+            android:text="当前巡检工号为"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/m_add"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#050505"
+            android:gravity="center"
+            android:paddingBottom="@dimen/padding_normal"
+            android:paddingLeft="@dimen/padding_normal"
+            android:paddingRight="@dimen/padding_normal"
+            android:text="位置:"
+            android:textColor="@color/white"
+            android:textSize="@dimen/gj_c" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_below="@+id/m_name"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/layout_bg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 这里显示NFC扫描记录 -->
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:visibility="gone" />
+
+                <com.baidu.mapapi.map.MapView
+                    android:id="@+id/bmapView"
+                    android:layout_width="fill_parent"
+                    android:layout_height="200dip"
+                    android:clickable="true" />
+
+                <ListView
+                    android:id="@+id/listView_search_epclist"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="visible" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#050505"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/m_bottom_left1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:padding="@dimen/padding_big"
+                android:text="未检（222）"
+                android:textColor="@color/orange" />
+
+            <TextView
+                android:id="@+id/m_bottom_right1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:padding="@dimen/padding_big"
+                android:text="已检（120）"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

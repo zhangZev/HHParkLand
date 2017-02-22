@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ecf0f1" >
+
+    <LinearLayout
+        android:id="@+id/ll_layoutone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="10dp" >
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:src="@drawable/icon_time_qiandao" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="签到时间："
+                android:textColor="#a9b7b7"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_time_qiandaosubmit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="13:00"
+                android:textColor="#000000"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp" >
+
+            <ImageView
+                android:id="@+id/img_marker_qiandao"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_alignTop="@+id/tv_didian"
+                android:src="@drawable/icon_marker_qiandao" />
+
+            <TextView
+                android:id="@+id/tv_didian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/img_marker_qiandao"
+                android:text="签到地点："
+                android:textColor="#a9b7b7"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_address_qiandaosubmit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@+id/tv_didian"
+                android:text="贵州省建设学校(南校区)，贵州省贵阳市观山湖区金岭社区服务中心白云大道"
+                android:textColor="#000000"
+                android:textSize="12sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_layouttwo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_layoutone"
+        android:layout_marginTop="10dp"
+        android:background="#ffffff"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <EditText
+            android:id="@+id/et_note_qiandao"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#ffffff"
+            android:gravity="top"
+            android:hint="请填写签到备注"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/img_camera_qiandaosubmit"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_margin="5dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/icon_camera_qiandao"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_layoutthree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_layouttwo"
+        android:layout_marginTop="10dp"
+        android:background="#ffffff"
+        android:orientation="horizontal"
+        android:padding="20dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="当前企业："
+            android:textColor="#a9b7b7"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_company_qiandaosubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="贵州恒昊科技软件有限公司"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/btn_submit_qiandaosubmit"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:text="提交"
+            android:textColor="@color/header" />
+    </LinearLayout>
+
+</RelativeLayout>

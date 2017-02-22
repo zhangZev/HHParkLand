@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.henghao.parkland.views.ActivityFragmentView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/common_activity_views"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_bg" >
+
+    <!-- android:background="@drawable/background" -->
+
+</com.henghao.parkland.views.ActivityFragmentView>

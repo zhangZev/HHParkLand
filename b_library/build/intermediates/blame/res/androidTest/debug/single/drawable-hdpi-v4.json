@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_history_normal.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_history_normal.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_history_pressed.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_history_pressed.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bg_popwindow.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_popwindow.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\zfmm_window_bottomright_click.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\zfmm_window_bottomright_click.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_laser.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_laser.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_corner_bottom_right.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_corner_bottom_right.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_photo_pressed.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_photo_pressed.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_corner_top_right.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_corner_top_right.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\zfmm_window_top.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\zfmm_window_top.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_fail.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_fail.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_flashlight_normal.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_flashlight_normal.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\goodslist_shopcart_num.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\goodslist_shopcart_num.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_corner_bottom_left.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_corner_bottom_left.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\zfmm_window_bottomleft_click.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\zfmm_window_bottomleft_click.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_photo_normal.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_photo_normal.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\zfmm_window_bottomright_out.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\zfmm_window_bottomright_out.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\loading_bg.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\loading_bg.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\zfmm_window_bottomleft_out.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\zfmm_window_bottomleft_out.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_corner_top_left.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_corner_top_left.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\loading_mian.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\loading_mian.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_flashlight_pressed.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_flashlight_pressed.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\logo1.png",
+        "source": "D:\\Workspaces\\HHYuanLing\\b_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\logo1.png"
+    }
+]

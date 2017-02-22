@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center" >
+
+    <RelativeLayout
+        android:id="@+id/tab_name_root"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <ImageView
+            android:id="@+id/img_out"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/tab_name"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:id="@+id/img_click"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/tab_name"
+            android:layout_centerHorizontal="true"
+            android:alpha="0"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/tab_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/text_color"
+            android:padding="2dp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tab_hint_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/tab_name_root"
+        android:background="@drawable/goodslist_shopcart_num"
+        android:gravity="center"
+        android:paddingTop="2dip"
+        android:paddingBottom="2dip"
+        android:paddingLeft="4dip"
+        android:paddingRight="4dip"
+        android:text="12"
+        android:textColor="@color/white"
+        android:textSize="10sp" />
+
+</RelativeLayout>

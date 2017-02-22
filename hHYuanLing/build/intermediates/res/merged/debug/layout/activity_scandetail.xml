@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <!-- 树图 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/padding_normal" >
+
+            <ImageView
+                android:id="@+id/image_tree"
+                android:layout_width="120dip"
+                android:layout_height="120dip"
+                android:scaleType="fitXY"
+                 />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_normal" >
+
+                <TextView
+                    android:id="@+id/tv_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="bottom"
+                    android:text="树名：香樟树"
+                    android:textSize="@dimen/gj_e" />
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+
+                <TextView
+                    android:id="@+id/tv_along"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/padding_normal_max"
+                    android:gravity="bottom"
+                    android:text="属：樟属"
+                    android:textSize="@dimen/gj_e" />
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+
+                <TextView
+                    android:id="@+id/tv_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/padding_normal_max"
+                    android:ellipsize="end"
+                    android:gravity="bottom"
+                    android:text="分布区域：国南方及西南各省区"
+                    android:textSize="@dimen/gj_e" />
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/padding_normal" >
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.2"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:singleLine="true"
+                        android:text="健康状况：" />
+
+                    <TextView
+                        android:id="@+id/tv_jiangkang"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:text="健康" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/view_gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/ll_view1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/padding_normal" >
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.2"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:singleLine="true"
+                        android:text="负责人：" />
+
+                    <TextView
+                        android:id="@+id/tv_fuzeren"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:text="张晓飞" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+                <!-- 高度 -->
+
+                <LinearLayout
+                    android:id="@+id/ll_view2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/padding_normal" >
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.2"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:singleLine="true"
+                        android:text="高度：" />
+
+                    <TextView
+                        android:id="@+id/tv_height"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:text="22米" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+
+                <LinearLayout
+                    android:id="@+id/ll_view3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/padding_normal" >
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.2"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:singleLine="true"
+                        android:text="绿化面积：" />
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:text="10平方米" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+                <!-- 高度 -->
+
+                <LinearLayout
+                    android:id="@+id/ll_view4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/padding_normal" >
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.2"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:singleLine="true"
+                        android:text="胸径：" />
+
+                    <TextView
+                        android:id="@+id/tv_line"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:text="65cm" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+                <!-- 高度 -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/padding_normal" >
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.2"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:singleLine="true"
+                        android:text="年龄：" />
+
+                    <TextView
+                        android:id="@+id/tv_nianling"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:text="32岁" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+                <!-- 高度 -->
+
+                <LinearLayout
+                    android:id="@+id/ll_view5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/padding_normal" >
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.2"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:singleLine="true"
+                        android:text="产地：" />
+
+                    <TextView
+                        android:id="@+id/tv_chandi"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:text="贵阳" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+
+                <!-- 高度 -->
+
+                <LinearLayout
+                    android:id="@+id/ll_view6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/padding_normal" >
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.2"
+                        android:ellipsize="end"
+                        android:singleLine="true"
+                        android:text="经纬度：" />
+
+                    <TextView
+                        android:id="@+id/tv_jingwei"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:text="22.36  106.22" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1dip"
+                    android:background="@color/line" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="@dimen/padding_normal" >
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.2"
+                    android:ellipsize="end"
+                    android:gravity="bottom"
+                    android:singleLine="true"
+                    android:text="所在位置：" />
+
+                <TextView
+                    android:id="@+id/tv_location"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:ellipsize="end"
+                    android:gravity="bottom"
+                    android:text="贵阳市黔灵山路" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:background="@color/line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="@dimen/padding_normal" >
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.2"
+                    android:ellipsize="end"
+                    android:gravity="bottom"
+                    android:singleLine="true"
+                    android:text="苗木企业：" />
+
+                <TextView
+                    android:id="@+id/tv_miaomu"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:ellipsize="end"
+                    android:gravity="bottom"
+                    android:text="贵州大众苗木" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:background="@color/line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="@dimen/padding_normal" >
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.2"
+                    android:ellipsize="end"
+                    android:gravity="bottom"
+                    android:singleLine="true"
+                    android:text="所属单位：" />
+
+                <TextView
+                    android:id="@+id/tv_suoshu"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:ellipsize="end"
+                    android:gravity="bottom"
+                    android:text="贵州园林厅" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:background="@color/line" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

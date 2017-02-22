@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Workspaces\HHYuanLing\b_library\src\main\jniLibs"><file name="armeabi/liblocSDK6a.so" path="D:\Workspaces\HHYuanLing\b_library\src\main\jniLibs\armeabi\liblocSDK6a.so"/></source></dataSet><dataSet config="release"><source path="D:\Workspaces\HHYuanLing\b_library\src\release\jniLibs"/></dataSet></merger>
